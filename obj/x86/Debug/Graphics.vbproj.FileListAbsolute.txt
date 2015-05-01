@@ -1,0 +1,44 @@
+C:\Users\днс\Google Диск\Graph\bin\Debug\Graphics.exe
+C:\Users\днс\Google Диск\Graph\bin\Debug\Graphics.pdb
+C:\Users\днс\Google Диск\Graph\bin\Debug\Graphics.xml
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.Form1.resources
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.Form2.resources
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.Form3.resources
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.Form4.resources
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.Form5.resources
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.Form6.resources
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.Form7.resources
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.Form8.resources
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.Form9.resources
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.Resources.resources
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.exe
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.xml
+C:\Users\днс\Google Диск\Graph\obj\x86\Debug\Graphics.pdb
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.exe
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.xml
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.pdb
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\bin\Debug\Graphics.exe
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\bin\Debug\Graphics.pdb
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\bin\Debug\Graphics.xml
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.Form1.resources
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.Form2.resources
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.Form3.resources
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.Form4.resources
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.Form5.resources
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.Form6.resources
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.Form7.resources
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.Form8.resources
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.Form9.resources
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\Graphics.Resources.resources
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\muhin\Мои документы\Google Диск\Graph\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aleksandr\Downloads\Graph-2015-05-01\Graph\obj\x86\Debug\Graphics.exe
+C:\Users\Aleksandr\Downloads\Graph-2015-05-01\Graph\obj\x86\Debug\Graphics.xml
+C:\Users\Aleksandr\Downloads\Graph-2015-05-01\Graph\obj\x86\Debug\Graphics.pdb
+D:\GitHub\SWR-Calculator\obj\x86\Debug\Graphics.exe
+D:\GitHub\SWR-Calculator\obj\x86\Debug\Graphics.xml
+D:\GitHub\SWR-Calculator\obj\x86\Debug\Graphics.pdb
